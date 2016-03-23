@@ -1,0 +1,93 @@
+/*
+* MIXITUP Boilerplate Template Stylesheet
+*/
+
+/* ------ DEFAULTS ------ */
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+margin: 0;
+padding: 0;
+border: 0;
+vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+display: block;
+}
+table {
+border-spacing: 0;
+border-collapse: collapse;
+}
+
+a {
+text-decoration: none;
+}
+nav li {
+list-style-type: none;
+display: inline-block;
+}
+/* ------ BOILERPLATE TEMPLATE ------ */
+
+.controls {
+display: inline-block;
+width:100%;
+margin: 0 0 30px;
+vertical-align: top; text-align:center
+}
+
+.controls li {
+ color:#000; padding:5px 20px; cursor:pointer; margin:0 0 10px 0; border:solid 1px #000;   border-radius: 4px;
+}
+
+.controls li.active {
+background:#000; color:#fff
+}
+hr {
+margin: 0 0 30px;
+height: 0;
+border: 0 none;
+border-top: 1px solid #eee;
+}
+#Grid {
+width:100%;
+text-align: justify;
+font-size: 0.1px; margin:0 0 50px 0
+}
+#Grid:after {
+content: '';
+display: inline-block;
+width: 100%;
+}
+#Grid .mix {
+display: none;
+opacity: 0;
+vertical-align: top;
+margin:0 10px 20px 10px;
+color: #fff;
+font-size: 30px;
+text-align: center;
+  float:left; position:relative;
+}
+#Grid .gap {
+display: inline-block;
+width: 230px;
+}
+
+#Grid  li { position:relative; width:360px; height:230px; background:#fff; box-shadow: 1px 1px 5px #888888; padding:0; cursor:pointer}
+
+
+#overlay    {
+-webkit-transition: opacity .25s ease;
+-moz-transition: opacity .25s ease; position:absolute; width:100%; height:100%; z-index:999; background:#fff; top:0; left:0;  opacity:0; background:rgba(0,0,0,.80);text-align:center; font-size:12px; line-height:18px; padding:20% 5px; font-family:Arial, Helvetica, sans-serif; z-index:0}
+
+#Grid li:hover #overlay {
+opacity:1;}
+
+
+.img-div { overflow:hidden; height:230px; }
+.text-div { position:absolute; width:100%; left:0; bottom:0; background: rgba(0, 0, 0, 0.5); font-size:13px; height:40px; line-height:38px; font-family:Arial, Helvetica, sans-serif; -webkit-transition: opacity .25s ease;
+-moz-transition: opacity .25s ease;  }
+
+
+
+
+

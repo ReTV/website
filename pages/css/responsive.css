@@ -1,0 +1,375 @@
+@media (max-width:1280px){
+.what-is-retv { margin:-43px 0 0}
+body { overflow-x:hidden!important}
+
+#intro {
+
+background: url(../../assets/images/hero_1.jpg) center 0 no-repeat!important;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-size:100%!important;
+
+}
+
+
+#bg2 {display:none!important}
+#bg2-2 {display:block!important}
+
+#psy { display:none}
+#psy2 { display:block;	background: url(../../assets/images/2.jpg) 0 0 no-repeat; background-size:100%; height:750px;}
+
+
+.home-full-04 {
+
+background: url(../../assets/images/home2.jpg)  center 0 no-repeat #eeeeee!important;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-size:100%!important;
+height:854px;
+}
+
+}
+
+@media (max-width:1279px){
+.what-is-retv { padding:0; margin:30% 0 0 0}
+.top-right { position:relative!important;}
+}
+
+@media (max-width:1279px){.header .menu > li > a {font-family: "Montserrat";padding-right:5px;}
+.header .menu > li { font-size:12px;}
+}
+
+@media (max-width:980px)
+{
+.wait { left:0!important; right:0!important; top:0!important; margin:0 auto!important;}
+#internet-tv-banner {height:350px; background: url(../../assets/images/internet-tv-banner-01.jpg)  center 0  no-repeat!important;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover; background-size:100%!important
+}
+.experience-bg {height:480px;}
+.remote-css { margin:30px 0 0 0}
+
+
+
+.dongle-and-remote {
+margin: 0 auto;
+text-align:center;
+width: 100%;
+position: relative;
+padding:0;
+background: url(../../assets/images/dongle-and-remote.jpg) center 0 repeat  no-repeat!important;height:500px;
+background-size:100%!important;
+}
+
+
+}
+
+@media (max-width:800px){
+.img-tech-spech {height:360px; background-size:100%}
+#intro h1 {font-size:25px; line-height:25px; padding:0 0 4px 0}
+#intro  h4 {font-size:18px;line-height:25px;}
+.motion img {display: inline-block;margin:20px 5px 0;}
+.motion-div {padding:4% 0 14%;width: 100%;}
+.experience-bg {height:350px;}
+
+.height-2 {
+background-position: center 0;
+height: 490px; background-size:100%!important
+}
+#psy {height: 400px!important;}
+.full-vh {height: 30vh; }
+
+.full-vh h1 { font-size:30px!important;}
+.container h1 { font-size:30px;}
+.water-img {height: 276px;}
+
+.simpsons {height: 550px;
+background: url(../../assets/images/experience-banner-1.jpg) center center no-repeat!important;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-size:100%!important;
+}
+
+.experience {height: 400px;margin: 50px 0 0; background: url(../../assets/images/experience-banner-052.jpg) center center no-repeat!important;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-size:100%!important;
+}
+#banner3 { padding:0;height:100%!important;}
+
+.top-box {right: 0;top: 50px;}
+.p-b-85 {padding-bottom: 35px !important;}
+.p-t-75 {padding-top: 35px !important;}
+#demo-content-2 {height: 370px;}
+
+.tv-Smart {position:relative; right:0; top:0;}
+#internet-tv-banner {height:280px;}
+.mirroring { background: url(../../assets/images/mirroring-apps-banner-01.jpg) center 0 no-repeat!important;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+ background-size:100%!important; height:400px;
+ }
+
+
+#banner3 {
+height: auto;
+margin: 0 auto;
+text-align:center;
+width: 100%;
+position: relative;
+padding:4% 0!important;
+height:74%!important;
+background: url(../../assets/images/movie-tv-show-banner-03.jpg) 50% 0 scroll no-repeat #eeeeee;
+background-size:100%!important;
+}
+
+.home-full-04 {
+
+background: url(../../assets/images/home2.jpg)  center center no-repeat #eeeeee!important;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-size:100%!important;
+}
+
+.mov-tv  h1 { font-size:29px!important;}
+.wait {top:50px!important;}
+.bg-05 { padding:10% 0 30% 0}
+.home-full-04 { height:505px!important;}
+
+.motion img {
+display: inline-block;
+margin: 20px 5px 0;
+width: 33%;
+}
+
+
+#Grid li { width:220px!important;}
+
+
+.water-img {
+background: url(../../assets/images/water.jpg) center center repeat  no-repeat!important;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+height:300px;
+background-size:100%!important;
+}
+
+#space  { background: url(../../assets/images/internet-tv-banner-022.jpg) center 0 repeat  no-repeat!important; height:500px; background-size:100%!important;}
+
+.dongle-and-remote {
+margin: 0 auto;
+text-align:center;
+width: 100%;
+position: relative;
+padding:0;
+background: url(../../assets/images/dongle-and-remote.jpg) center 0 repeat  no-repeat!important;height:400px;
+background-size:100%!important;
+}
+
+
+}
+
+@media (max-width:768px){
+#intro h1 {font-size:20px; line-height:25px;}
+#intro  h4 {font-size:15px;line-height:25px;}
+.container h1 { font-size:20px;}
+.modal-type { margin:0 0 10px 0}
+#Grid { margin:0 auto; width:92%!important}
+.experience-bg {height:300px;}
+.text-master-light {font-size:30px}
+#Grid li { width:200px!important;}
+.tvb-show-banner {background: url(../../assets/images/movie-tv-show-banner-04.jpg)  center 0 no-repeat #eeeeee!important; height:400px; background-size:100%!important;}
+}
+
+@media (max-width:767px){
+#Grid li { width:155px!important; height:150px!important;}
+.img-div {
+height: 150px!important;
+overflow: hidden;
+}
+
+.bottom-img-2 {display:none!important;}
+.bottom-img-1 {display:block!important;}
+.top-left {top: -30px;}
+.img-1 {display:block}
+.img-2 {display:none}
+#banner3 {padding: 64% 0 55% !important;}
+.tvb-show-banner {background: url(../../assets/images/movie-tv-show-banner-04.jpg)  center 0 no-repeat #eeeeee!important; height:400px; background-size:100%!important;}
+
+.girl-img { background:none!important; height:auto}
+.girl2 { display:block}
+
+.img-tech-spech {height:362px; background-size:100%}
+.remote-img   { height:auto; background:none!important;}
+.remote { display:block!important;}
+.remote img { width:150px;}
+#psy2 { height:380px}
+.img-tech-spech { height:282px}
+
+
+.dongle-and-remote {height:400px;}
+
+.legal h1 { padding:0 0 10px}
+.legal li { font-size:13px; line-height:20px;}
+.legal ul { margin:0 10px}
+.legal h3 { font-size:18px; line-height:24px; padding:0 0 10px 0}
+.legal h2 { font-size:20px; line-height:24px;}
+}
+
+
+ 
+
+@media (max-width:480px){
+.motion img {display: inline-block;margin:0 5px 5px;}
+.home-full-04 {background: url(../../assets/images/homefull.jpg)  center 0 no-repeat!important;height:287px!important; background-size:100%!important;
+}
+.water-img {
+background: url(../../assets/images/water.jpg) 0 0 repeat  no-repeat!important;height:300px;background-size:100%}
+.modal-type { padding:10px;}
+.p-b-85 {padding-bottom:30px!important}
+.p-t-75 {padding-top:30px!important}
+#psy {height: 190px !important;}
+
+.water-img {height:216px;}
+.experience {height:240px;}
+.simpsons {height: 260px;}
+.mov-tv h1 {font-size:26px; line-height:25px;}
+#Grid li {height: 150px;width: 180px!important; }
+#Grid { margin:0 auto; width:100%!important}
+
+
+#Grid .mix {margin: 0 5px 20px; width: 195px!important;height:117px;}
+
+.sm-text-center {font-size: 16px;}
+#psy2 {height:300px;}
+
+.modal-type h1 {margin-bottom:10px; line-height:20px; font-size:15px}
+.container h1 { font-size:16px;}
+dd, p { font-size:13px; line-height:20px;}
+
+.swiper-slide.fit h1 {line-height: 2.5vh}
+.full-vh h1 {font-size: 17px !important;}
+
+.container h1 {font-size: 15px;}
+.sm-text-center {font-size:13px; line-height:23px}
+.satisfaction { margin:20px 0 0 0!important;}
+.foorer-link h4 a {font-size:16px;}
+.foorer-link h4 {font-size:12px;}
+
+.sm-m-b-20 {margin-bottom:0!important;}
+.sm-p-t-20 {padding-top:0!important;}
+.move-top { position:relative!important; top:0!important;}
+#internet-tv-banner {height:170px;}
+.experience-bg {height:200px;}
+.text-master-light {font-size:26px}
+
+
+.mov-tv h1 {
+    font-size: 20px!important;
+    line-height: 23px; margin:0 0 10px 0
+}
+.mov-tv h4 {
+    font-size: 14px!important; line-height:25px!important;
+}
+ 
+#space { height:330px} 
+.img-tech-spech {height:220px; background-size:100%}
+
+#overlay {padding: 18% 5px!important;} 
+.padd-0 { padding:0!important;} 
+.tvb-show-banner { height:290px;}
+.next-link h4 { font-size:16px; line-height:20px; margin:0 0 20px 0}
+
+.mirroring {
+    height:200px;
+}
+#intro { padding:76px 0 0}
+
+#banner3 {padding: 64% 0 45%!important;}
+.link-css li { font-size:13px;}
+.bg-master-darker p { font-size:12px; padding:0 15px;}
+.social-links a img { width:30px;}
+#topcontrol img { width:51px!important; height:33px!important;}
+
+.dongle-and-remote {height:300px;}
+.social-links { text-align:center}
+.social-links a { display:inline-block}
+}
+
+
+@media (max-width:479px){
+.simpsons {height: 200px;}
+#Grid li {height: 150px!important; width: 100%!important; }
+#Grid .mix {margin: 0 5px 20px 0!important; width:100%!important;height:117px;}
+#psy2 {height:240px;}
+
+#internet-tv-banner {height:150px;} 
+.text-master-light {font-size:26px} 
+.text-master-light {font-size:18px!important;} 
+.experience-bg {height:150px;}
+.img-tech-spech {height:150px; background-size:100%}
+#intro { padding: 87px 0 0;}
+.tvb-show-banner { height:217px;}
+
+#space { height:202px} 
+.mirroring {height:150px;}
+
+.home-full-04 {height: 242px !important;}
+
+.dongle-and-remote {height:180px!important;}
+
+}
+
+
+@media (max-width:320px){
+.home-full-04 {height:212px !important}
+.tvb-show-banner { height:190px;}
+#intro { padding:110px 0 0;}
+.experience {height: 180px;}
+#demo-content-2 {height: 230px!important;}
+.img-div {height: 117px;overflow: hidden;}
+.what-is-retv {margin: 6% 0 0;padding: 0;}
+#intro h1 {font-size: 14px;line-height:20px;}
+#intro h4 {font-size:10px;line-height:18px;}
+
+#psy2 {height:220px;}
+.container h1 {font-size: 15px;}
+.sm-text-center {font-size: 10px;}
+.lh-34 {line-height:20px;}
+#internet-tv-banner {height:120px;} 
+
+#Grid li { width:155px!important; height:142px!important;}
+.img-div {height:142px!important;overflow: hidden;}
+
+#banner3 {
+padding:68% 0!important;
+}
+
+
+.mov-tv h1 {
+    font-size: 18px !important;
+}
+
+
+.mov-tv h4 {
+    font-size: 14px!important; line-height:22.88px!important;
+}
+
+#space { height:180px} 
+}
